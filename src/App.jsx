@@ -6,6 +6,7 @@ import Contacto from "./components/contacto";
 import { ThemeProvider } from "@material-ui/core/styles";
 import theme from "./temaConfig";
 import Navbar from "./components/navbar";
+import ItemListContainer from "./components/ItemListContainer";
 
 function App() {
   return (
