@@ -28,7 +28,7 @@ const Navbar = () => {
             Nosotros
           </Button>
           <Button href="/punto59/contacto" variant="text" color="secondary">
-            Contacto
+            Contador
           </Button>
           <Button variant="text" color="secondary">
             Menu 4
